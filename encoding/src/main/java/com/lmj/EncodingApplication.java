@@ -1,13 +1,12 @@
 package com.lmj;
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BaseDemoApplication {
+public class EncodingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BaseDemoApplication.class, args);
+		SpringApplication.run(EncodingApplication.class, args);
 	}
 
 }

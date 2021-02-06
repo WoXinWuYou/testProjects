@@ -1,4 +1,4 @@
-package com.lmj.common.web;
+package com.lmj.web;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
